@@ -1,0 +1,5 @@
+Java Developer with 4.6+ years of hands-on experience in modern
+application development. Specialized in creating microservices with
+Spring Boot and proficient in Oracle SQL and MongoDB. Proven
+ability to lead agile teams, translate requirements into technical
+solutions, and ensure successful, on-time code delivery.

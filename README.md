@@ -1,2 +1,6 @@
-# career-conversation-chatbot
-This chatbot answers based on the linkedIn profile
+---
+title: career_conversation
+app_file: app.py
+sdk: gradio
+sdk_version: 5.49.1
+---
